@@ -1,0 +1,30 @@
+.google-nav-left ul, .google-nav-right ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.google-nav-left li, .google-nav-right li {
+    display: inline;
+}
+
+.google-nav-left  {
+    float:left;
+}
+
+.google-nav-right {
+    float:right;
+}
+
+
+.google-main {
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
